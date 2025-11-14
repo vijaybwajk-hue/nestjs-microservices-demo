@@ -1,0 +1,26 @@
+# Dependency folders
+node_modules/
+product-service/node_modules/
+order-service/node_modules/
+client/node_modules/
+
+# Environment files
+.env
+product-service/.env
+order-service/.env
+client/.env
+
+# Build outputs
+dist/
+build/
+.vite/
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Other
+.DS_Store

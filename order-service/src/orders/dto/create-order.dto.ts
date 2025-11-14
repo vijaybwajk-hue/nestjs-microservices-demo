@@ -1,0 +1,7 @@
+
+export class CreateOrderDto {
+  productId!: number;
+  quantity!: number;
+  customerName?: string;
+  address?: string;
+}
