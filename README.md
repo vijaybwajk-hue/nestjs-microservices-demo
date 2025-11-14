@@ -1,4 +1,4 @@
-# 🚀 Microservices Fullstack App (NestJS + React)
+# Microservices Fullstack App (NestJS + React)
 
 A simple microservices-based fullstack project consisting of:
 
@@ -10,7 +10,7 @@ Frontend includes a **dynamic JSON-based signup form**, protected routes, and pa
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 ### **Client (React + Vite)**
 - Signup (dynamic JSON-driven form)
@@ -29,7 +29,7 @@ Frontend includes a **dynamic JSON-based signup form**, protected routes, and pa
 
 ---
 
-## ▶️ Run All Services (One-Click Copy)
+## Run All Services
 
 ```bash
 # --- PRODUCT SERVICE (PORT 3001) ---
